@@ -1,0 +1,34 @@
+{
+	"name": "ven_ziyu",
+	"title": "智瑜法師全集",
+	"rendClass": [
+		"kai",
+		"b",
+		"tag",
+		"l",
+		"je",
+		"le",
+		"xa",
+		"wi",
+		"pe",
+		"zi",
+		"by",
+		"bf",
+		"bz",
+		"ask",
+		"rep",
+		"si",
+		"sr",
+		"year",
+		"h0",
+		"book",
+		"sarticle",
+		"va",
+		"eng",
+		"talk"
+	],
+	"images": ["xml/ziyu_logo.png"],
+	"files": [
+		"xml/ok.xml"
+	]
+}

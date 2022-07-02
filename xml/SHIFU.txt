@@ -1,0 +1,15 @@
+﻿<檔>
+<書>宗旨與版權</書>
+<大>律紹南山　教宗般若　行在彌陀</大>
+著作版權歸西蓮淨苑出版社所有
+最佳瀏覽器IE4.0以上
+解析度800 x 600
+歡迎與我們聯絡
+<聯 l="mailto:seeland@pchome.com.tw">seeland@pchome.com.tw</聯>
+西蓮淨苑
+<聯 l="http://www.seeland.org.tw">http://www.seeland.org.tw</聯>
+<圖 f="xml/ziyu_logo.png"/>
+<序>編輯者修訂：</序>
+六處「波羅密」為「波羅蜜」
+幾處「波羅經」為「波羅蜜經」
+</檔>

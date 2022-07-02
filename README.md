@@ -1,6 +1,6 @@
 # 《智瑜法師全集》的原始碼 ven_ziyu for Accelon2017  
 ---  
-> 展示網址：智邦主機 http://adbdao.url.tw/#c=sila_more  
+> 展示網址：智邦主機 http://adbdao.url.tw/#c=ven_ziyu  
   
 > 最新Accelon下載資訊 http://adbdao.blogspot.com/2018/07/blog-post.html  
 ---  
